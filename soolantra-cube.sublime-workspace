@@ -1,0 +1,570 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"mar",
+				"margin-top"
+			],
+			[
+				"padd",
+				"padding"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"li",
+				"link	Tag"
+			],
+			[
+				"a",
+				"a	Tag"
+			],
+			[
+				"pad",
+				"padding"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"marg",
+				"margin-left"
+			],
+			[
+				"n",
+				"none"
+			],
+			[
+				"in",
+				"include"
+			],
+			[
+				"text",
+				"text-transform"
+			],
+			[
+				"te",
+				"text-align"
+			],
+			[
+				"tex",
+				"text-transform"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"cl",
+				"clear"
+			],
+			[
+				"fl",
+				"float"
+			],
+			[
+				"d",
+				"div	Tag"
+			],
+			[
+				"max",
+				"max-width"
+			],
+			[
+				"ba",
+				"background"
+			],
+			[
+				"u",
+				"uppercase"
+			],
+			[
+				"i",
+				"id	Attr"
+			],
+			[
+				"h",
+				"h2	Tag"
+			],
+			[
+				"ar",
+				"article	Tag"
+			],
+			[
+				"min",
+				"min-height"
+			],
+			[
+				"pos",
+				"position"
+			],
+			[
+				"back",
+				"background-image"
+			],
+			[
+				"al",
+				"alt	Attr"
+			],
+			[
+				"co",
+				"color"
+			],
+			[
+				"pa",
+				"padding"
+			],
+			[
+				"st",
+				"style	Tag"
+			],
+			[
+				"margin",
+				"margin-right"
+			],
+			[
+				"inline",
+				"inline-block"
+			],
+			[
+				"Tex",
+				"text-transform"
+			],
+			[
+				"cur",
+				"cursor"
+			],
+			[
+				"margin-",
+				"margin-top"
+			],
+			[
+				"backgroun",
+				"background-color"
+			],
+			[
+				"paddi",
+				"padding-bottom"
+			],
+			[
+				"backg",
+				"background-size"
+			],
+			[
+				"background",
+				"background-repeat"
+			],
+			[
+				"im",
+				"important"
+			],
+			[
+				"op",
+				"opacity"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"bor",
+				"border"
+			],
+			[
+				"bo",
+				"bottom"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 3773,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"toggleHomeVideo",
+			"Package Control: Install Package",
+			"import urllib.request,os; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); open(os.path.join(ipp, pf), 'wb').write(urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ','%20')).read())"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/leonard.tafro/Development/soolantra-cube-demo"
+	],
+	"file_history":
+	[
+		"/Users/leonard.tafro/Development/mollysuggs-blog/wp-content/themes/twentyfourteen/page.php",
+		"/Users/leonard.tafro/Development/mollysuggs-blog/license.txt",
+		"/Users/leonard.tafro/Development/mollysuggs-blog/wp-content/themes/twentyfourteen-child/style.css",
+		"/Users/leonard.tafro/Development/mollysuggs-blog/wp-content/themes/twentyfourteen-child/functions.php",
+		"/Users/leonard.tafro/Development/lennytafro.com/mollysuggs/app/styles/_index.scss",
+		"/Users/leonard.tafro/Development/lennytafro.com/mollysuggs/app/styles/_pages.scss",
+		"/Users/leonard.tafro/Development/lennytafro.com/mollysuggs/app/index.html",
+		"/Users/leonard.tafro/Development/lennytafro.com/mollysuggs/app/styles/_globals.scss",
+		"/Users/leonard.tafro/Development/lennytafro.com/mollysuggs/app/styles/main.scss",
+		"/Users/leonard.tafro/Desktop/_molly-dist/index.html",
+		"/Users/leonard.tafro/Downloads/TRIUMEQ Global Banners_HTML5_Localization Build Kit-1/Development & Publisher Files/TRIUMEQ_LaunchAwareness_160x600SSKY/TRIUMEQ_LaunchAwareness_160x600SSKY_HTM5.html",
+		"/Users/leonard.tafro/Development/lennytafro.com/mollysuggs/bower.json",
+		"/Users/leonard.tafro/Development/lennytafro.com/mollysuggs/dist/index.html",
+		"/Users/leonard.tafro/Development/lennytafro.com/mollysuggs/dist/sitemap.xml",
+		"/Users/leonard.tafro/Development/lennytafro.com/mollysuggs/app/scripts/main.js",
+		"/Users/leonard.tafro/Development/lennytafro.com/mollysuggs/app/styles/_fonts.scss",
+		"/Users/leonard.tafro/Development/lennytafro.com/mollysuggs/app/styles/_reset.scss",
+		"/Users/leonard.tafro/Development/lennytafro.com/mollysuggs/app/styles/_grid.scss",
+		"/Users/leonard.tafro/Development/lennytafro.com/logicintoaction/app/contact-us.html",
+		"/Users/leonard.tafro/Development/lennytafro.com/logicintoaction/app/styles/_contact.scss",
+		"/Users/leonard.tafro/Development/lennytafro.com/logicintoaction/app/styles/_pages.scss",
+		"/Users/leonard.tafro/Development/lennytafro.com/logicintoaction/app/index.html",
+		"/Users/leonard.tafro/Development/lennytafro.com/logicintoaction/app/styles/main.scss",
+		"/Users/leonard.tafro/Development/mccann-physician-index/alprolix/ReportingScreen_Alprolix.html",
+		"/Users/leonard.tafro/Development/mccann-physician-index/index.php",
+		"/Users/leonard.tafro/Development/mccann-physician-index/htpasswd.txt",
+		"/Users/leonard.tafro/Development/mccann-physician-index/htaccess.txt",
+		"/Users/leonard.tafro/Development/lennytafro.com/logicintoaction/app/styles/_index.scss",
+		"/Users/leonard.tafro/Development/lennytafro.com/logicintoaction/app/styles/_fonts.scss",
+		"/Users/leonard.tafro/Development/lennytafro.com/logicintoaction/app/scripts/main.js",
+		"/Users/leonard.tafro/Development/lennytafro.com/logicintoaction/bower.json",
+		"/Users/leonard.tafro/Development/trii-banner-html5-version-of-global-awareness/dev/160x600/index.html",
+		"/Users/leonard.tafro/Downloads/TRIUMEQ Global Banners_HTML5_Publisher Deployment/TRIUMEQ_LaunchAwareness_728x90LDB/TRIUMEQ_LaunchAwareness_728x90LDB_HTM5.html",
+		"/Users/leonard.tafro/Box Documents/Default Sync Folder/Eisai_BELVIQ/FINAL BANNERS 05-20-2014/Master BELVIQ-300-250/index.html",
+		"/Applications/Sublime Text.app/Contents/MacOS/changelog.txt",
+		"/Users/leonard.tafro/Development/logicintoaction.com/wp-config.php",
+		"/Users/leonard.tafro/Development/lennytafro.com/TBONEANDTHEFUZZ.COM/development/phpinfo.php",
+		"/Users/leonard.tafro/Development/Novolog-beta/ie9/Default.aspx",
+		"/Users/leonard.tafro/Development/Novolog-beta/ie9/index.html",
+		"/Users/leonard.tafro/Development/Novolog-beta/index.htm",
+		"/Users/leonard.tafro/Development/Novolog-beta/Default.aspx",
+		"/Users/leonard.tafro/Development/Novolog-beta/Web.config",
+		"/Users/leonard.tafro/Development/Web.config",
+		"/Users/leonard.tafro/Library/Caches/TemporaryItems/Outlook Temp/novolog_fullstep_email4_deployment/index.html",
+		"/Users/leonard.tafro/Development/staging-one-offs/gilotrif-app/index.html",
+		"/Users/leonard.tafro/Development/lennytafro.com/southsussex.org/app/styles/main.scss",
+		"/Users/leonard.tafro/Development/lennytafro.com/southsussex.org/app/index.html",
+		"/Users/leonard.tafro/Dropbox/LT/sponsorshipgroup.org/index.html",
+		"/Users/leonard.tafro/Development/lennytafro.com/localstorage.html",
+		"/Users/leonard.tafro/Development/staging-one-offs/dss-capabilties/index.html",
+		"/Users/leonard.tafro/Development/lennytafro.com/southsussex.org/Gruntfile.js",
+		"/Users/leonard.tafro/Development/lennytafro.com/TBONEANDTHEFUZZ.COM/sass/_page-20140322.scss",
+		"/Users/leonard.tafro/Development/lennytafro.com/TBONEANDTHEFUZZ.COM/sass/screen.scss",
+		"/Users/leonard.tafro/Development/lennytafro.com/TBONEANDTHEFUZZ.COM/development/head.php",
+		"/Users/leonard.tafro/Development/lennytafro.com/TBONEANDTHEFUZZ.COM/sass/_1.0-home.scss",
+		"/Users/leonard.tafro/Development/lennytafro.com/southsussex.org/test/index.html",
+		"/Users/leonard.tafro/Box Documents/Default Sync Folder/Rebif/Rebif iPad/RebifXMLSampleFile.xml",
+		"/Users/leonard.tafro/Development/zecuity_page/index.html",
+		"/Users/leonard.tafro/Desktop/MY HEALTHY renames/sitemapPHASE2.xml",
+		"/Users/leonard.tafro/Desktop/Belviq Banners  E13_BELV_17_04012014/Master BELVIQ-300-600/css/mainNEW.css",
+		"/Users/leonard.tafro/Development/mytests-mtl/node/test.js",
+		"/Users/leonard.tafro/Development/mytests-mtl/node/airline/package.json",
+		"/Users/leonard.tafro/Dropbox/LT/Node Training/Exercise Files/chap03/02/start/airline/package.json",
+		"/Users/leonard.tafro/Dropbox/LT/Node Training/Exercise Files/chap02/02/start/example1.js",
+		"/Users/leonard.tafro/Dropbox/LT/Node Training/Exercise Files/chap02/02/start/relay/index.js",
+		"/Users/leonard.tafro/Dropbox/LT/Node Training/Exercise Files/chap02/02/start/example4.js",
+		"/Users/leonard.tafro/Dropbox/LT/Node Training/Exercise Files/chap02/02/start/proclaim.js",
+		"/Users/leonard.tafro/Dropbox/LT/Node Training/Exercise Files/chap02/02/start/example3.js",
+		"/Users/leonard.tafro/Dropbox/LT/Node Training/Exercise Files/chap02/02/start/example2.js",
+		"/Users/leonard.tafro/Development/opsumit-website/dev/efficacy.php",
+		"/Users/leonard.tafro/Development/gsk_dual_ipad/assets/library/_manifest.html",
+		"/Users/leonard.tafro/Development/stiefel-holiday/index.html",
+		"/Users/leonard.tafro/Development/stiefel-holiday/css/main.css",
+		"/Users/leonard.tafro/Development/opsumit-veeva-ios-edetail/_pages/HQ_OPS_2013_001/HQ_OPS_2013_001.html",
+		"/Users/leonard.tafro/Development/opsumit-veeva-ios-edetail/_pages/HQ_OPS_2013_001/_globals/lib/jquery/jquery.js",
+		"/Users/leonard.tafro/Development/differin.com-consumer-updates/development/your-acne.php",
+		"/Users/leonard.tafro/Development/differin.com-consumer-updates/development/your-questions.php",
+		"/Users/leonard.tafro/Development/differin.com-consumer-updates/development/your-treatment.php",
+		"/Users/leonard.tafro/Development/differin.com-consumer-updates/sass/_1.3-your-acne.scss",
+		"/Users/leonard.tafro/Development/differin.com-consumer-updates/development/head.php",
+		"/Users/leonard.tafro/Development/differin.com-consumer-updates/development/index.php",
+		"/Users/leonard.tafro/Development/differin.com-consumer-updates/development/header.php",
+		"/Users/leonard.tafro/Development/differin.com-consumer-updates/sass/_1.2-your-questions.scss",
+		"/Users/leonard.tafro/Development/differin.com-consumer-updates/development/humans.txt",
+		"/Users/leonard.tafro/Development/differin.com-consumer-updates/development/differin.php",
+		"/Users/leonard.tafro/Development/differin.com-consumer-updates/sass/screen.scss",
+		"/Users/leonard.tafro/Development/differin.com-consumer-updates/sass/_global.scss",
+		"/Users/leonard.tafro/Development/differin.com-consumer-updates/sass/_header.scss",
+		"/Users/leonard.tafro/Development/differin.com-consumer-updates/sass/_footer.scss",
+		"/Users/leonard.tafro/Development/differin.com-consumer-updates/development/footer.php",
+		"/Users/leonard.tafro/Development/differin.com-consumer-updates/development/foot.php",
+		"/Users/leonard.tafro/Development/differin.com-consumer-updates/sass/_1.0-home.scss",
+		"/Users/leonard.tafro/Development/differin.com-consumer-updates/sass/_print.scss",
+		"/Users/leonard.tafro/Development/differin.com-consumer-updates/sass/print.scss",
+		"/Users/leonard.tafro/Development/differin.com-consumer-updates/development/assets/css/screen.css",
+		"/Users/leonard.tafro/Development/differin.com-consumer-updates/development/sass/screen.scss",
+		"/Users/leonard.tafro/Development/bi-gilotrif-idetail-irep/sass/_3_1_ITT_POPULATION.scss",
+		"/Users/leonard.tafro/Development/bi-gilotrif-idetail-irep/GILOTRIF_3_1_ADVERSE_EVENTS/GILOTRIF_3_1_ADVERSE_EVENTS.html",
+		"/Users/leonard.tafro/Development/bi-gilotrif-idetail-irep/GILOTRIF_3_1_ADVERSE_EVENTS/js/interaction.js",
+		"/Users/leonard.tafro/Development/bi-gilotrif-idetail-irep/sass/_3_2_ADVERSE_REACTIONS.scss",
+		"/Users/leonard.tafro/Development/bi-gilotrif-idetail-irep/GILOTRIF_3_2_ADVERSE_REACTIONS/GILOTRIF_3_2_ADVERSE_REACTIONS.html",
+		"/Users/leonard.tafro/Development/opsumit-website-mobile/index.html",
+		"/Users/leonard.tafro/Development/opsumit-website-mobile/assets/css/efficacy.css",
+		"/Users/leonard.tafro/Development/opsumit-website-mobile/efficacy.html",
+		"/Users/leonard.tafro/Development/opsumit-website-mobile/assets/css/page.css",
+		"/Users/leonard.tafro/Downloads/bootstrap-3.0.0/assets/js/jquery.js",
+		"/Users/leonard.tafro/Development/opsumit-veeva-ios-edetail/_pages/NOR_OPS_2013_503/NOR_OPS_2013_503.html",
+		"/Users/leonard.tafro/Development/opsumit-veeva-ios-edetail/_pages/NOR_OPS_2013_504/NOR_OPS_2013_504.html",
+		"/Users/leonard.tafro/Development/opsumit-veeva-ios-edetail/_pages/NOR_OPS_2013_505/NOR_OPS_2013_505.html",
+		"/Users/leonard.tafro/Development/opsumit-veeva-ios-edetail/_pages/NOR_OPS_2013_506/NOR_OPS_2013_506.html",
+		"/Users/leonard.tafro/Development/opsumit-veeva-ios-edetail/_pages/NOR_OPS_2013_601/NOR_OPS_2013_601.html",
+		"/Users/leonard.tafro/Development/opsumit-veeva-ios-edetail/_pages/NOR_OPS_2013_602/NOR_OPS_2013_602.html",
+		"/Users/leonard.tafro/Development/opsumit-veeva-ios-edetail/_pages/NOR_OPS_2013_603/NOR_OPS_2013_603.html",
+		"/Users/leonard.tafro/Development/opsumit-veeva-ios-edetail/_pages/NOR_OPS_2013_604/NOR_OPS_2013_604.html",
+		"/Users/leonard.tafro/Development/opsumit-veeva-ios-edetail/_pages/NOR_OPS_2013_701/NOR_OPS_2013_701.html",
+		"/Users/leonard.tafro/Development/opsumit-veeva-ios-edetail/_pages/NOR_OPS_2013_801/NOR_OPS_2013_801.html",
+		"/Users/leonard.tafro/Development/opsumit-veeva-ios-edetail/_pages/NOR_OPS_2013_802/NOR_OPS_2013_802.html",
+		"/Users/leonard.tafro/Development/opsumit-veeva-ios-edetail/_pages/NOR_OPS_2013_002/NOR_OPS_2013_002.html",
+		"/Users/leonard.tafro/Development/opsumit-veeva-ios-edetail/_pages/NOR_OPS_2013_101/NOR_OPS_2013_101.html",
+		"/Users/leonard.tafro/Development/opsumit-veeva-ios-edetail/_pages/NOR_OPS_2013_102/NOR_OPS_2013_102.html",
+		"/Users/leonard.tafro/Development/opsumit-veeva-ios-edetail/_pages/NOR_OPS_2013_103/NOR_OPS_2013_103.html",
+		"/Users/leonard.tafro/Development/opsumit-veeva-ios-edetail/_pages/NOR_OPS_2013_104/NOR_OPS_2013_104.html",
+		"/Users/leonard.tafro/Development/opsumit-veeva-ios-edetail/_pages/NOR_OPS_2013_201/NOR_OPS_2013_201.html",
+		"/Users/leonard.tafro/Development/opsumit-veeva-ios-edetail/_pages/NOR_OPS_2013_301/NOR_OPS_2013_301.html",
+		"/Users/leonard.tafro/Development/opsumit-veeva-ios-edetail/_pages/NOR_OPS_2013_302/NOR_OPS_2013_302.html",
+		"/Users/leonard.tafro/Development/opsumit-veeva-ios-edetail/_pages/NOR_OPS_2013_303/NOR_OPS_2013_303.html",
+		"/Users/leonard.tafro/Development/opsumit-veeva-ios-edetail/_pages/NOR_OPS_2013_401/NOR_OPS_2013_401.html",
+		"/Users/leonard.tafro/Development/opsumit-veeva-ios-edetail/_pages/NOR_OPS_2013_402/NOR_OPS_2013_402.html"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			"/Users/leonard.tafro/Development/Novolog-beta/js",
+			"/Users/leonard.tafro/Development/opsumit-veeva-ios-edetail/_pages",
+			"/Users/leonard.tafro/Development/opsumit-veeva-ios-edetail/a0Df00000001zhiEAA/3421267953/nor_assets/partials",
+			"/Users/leonard.tafro/Development/tradjenta_ios_edetail_junepoa2013/ctlFilesLilly"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"color",
+			"line-height",
+			"line-he",
+			"max",
+			"video",
+			".mp4",
+			"&amp;autoplay=1\"",
+			".mp4",
+			"mp4",
+			"drunk",
+			"<a",
+			"width: 50%;",
+			"imagemin",
+			"jumbotron",
+			"avenir",
+			"src=\"images/global/",
+			" hide\">",
+			"src=\"images/efficacy/",
+			"callout-container",
+			"url",
+			".container",
+			".container ",
+			"container",
+			" .lt-ie9 .home-page .callout-right-copy{",
+			"page-header",
+			"home-page",
+			"container",
+			"\"../../dist",
+			"\"../../assets/",
+			"href=\"../../assets",
+			"\"../../a0Df00000001zhiEAA/3421267953/nor_assets",
+			"../../",
+			"../",
+			"../../",
+			"\"../../",
+			"\"../../a0Df00000001zhiEAA/3421267953/nor_assets/",
+			"dimensions",
+			"graphWrap",
+			"content",
+			"toggleHomeVideo",
+			"PASSWORD=3l3ctriC2",
+			"a href=\"/",
+			"href=\"/css/",
+			"src=\"/js/"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"\"",
+			"Arial",
+			"src=\"assets/images/global/",
+			"\">",
+			"src=\"assets/images/efficacy/",
+			".wrapster",
+			"\"dist",
+			"\"assets/",
+			"href=\"assets",
+			"\"../../../a0Df00000001zhiEAA/3421267953/nor_assets",
+			"\"../../../a0Df00000001zhiEAA/3421267953/nor_assets/",
+			"PASSWORD=3l3ctriC3",
+			"a href=\"http://staging.soriluxfoam.com/",
+			"href=\"http://staging.soriluxfoam.com/css/",
+			"src=\"http://staging.soriluxfoam.com/js/"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3773,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								602,
+								602
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 48.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "soolantra-cube.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 447.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
